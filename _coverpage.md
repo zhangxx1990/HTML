@@ -1,4 +1,4 @@
-<img src="./media/HTML.png" width="600" alt="">
+<img src="./media/HTML.png" width="500" alt="">
 
 # HTML+Css笔记
 
