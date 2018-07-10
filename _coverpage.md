@@ -6,6 +6,6 @@
 
 [博客](http://zhangxiuxin.top)
 
-http://zhangxiuxin.top
+邮箱地址:zhangxiuxin1990@sina.com
 
 [Get Started](README)
