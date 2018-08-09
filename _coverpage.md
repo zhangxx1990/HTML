@@ -1,6 +1,6 @@
-<img src="./media/HTML.png" width="700" alt="">
+<img src="./media/HTML.png" width="720" alt="">
 
-# HTML+Css笔记
+### HTML+Css笔记
 
 > 张修新 <span style="font-size: 18px;"></span>
 
