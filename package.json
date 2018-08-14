@@ -1,7 +1,7 @@
 {
   "name": "HTML-tutorial",
   "version": "0.0.1",
-  "description": "",
+  "description": "HTML 笔记",
   "main": "index.html",
   "directories": {
     "doc": "docs"
@@ -10,16 +10,24 @@
     "docsify-cli": "^4.2.0"
   },
   "devDependencies": {},
+  "scripts": {
+    "start": "docsify serve ./ --port 5080"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/zhangxx1990/HTML.git"
   },
   "keywords": [
     "HTML",
-    "HTML.CSS",
-    "HTML-tutorial"
+    "php",
+    "tutorial",
+    "php tutorial",
+    "HTML tutoria"
   ],
-  "author": "",
+  "author": "zhangxiuxin.top",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxx1990/HTML.git"
+  },
   "homepage": "https://github.com/zhangxx1990/HTML.git"
 }
